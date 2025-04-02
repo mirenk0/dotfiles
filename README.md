@@ -1,2 +1,2 @@
 
-zschrc and kitty
+zschrc - kitty - nvim
