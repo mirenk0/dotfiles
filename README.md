@@ -1,0 +1,2 @@
+
+zschrc and kitty
